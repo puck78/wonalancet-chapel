@@ -1,4 +1,4 @@
-[Image]"images/Chapel Cover Image.jpg"
+![Image]("images/Chapel Cover Image.jpg")
 ## Wonalancet Chapel 
 
 - Postcards
