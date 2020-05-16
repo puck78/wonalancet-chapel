@@ -1,6 +1,6 @@
 ## Wonalancet Chapel 
 
 - Postcards
-  - url
+  - [Link]www.example.com
 - Sermon Archive
-  - url
+  - [Link]www.nytimes.com
