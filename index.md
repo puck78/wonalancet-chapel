@@ -1,5 +1,5 @@
 <body>
-<div style='display:table'>
+<div style='display:table; width:40%'>
 <img src="https://github.com/puck78/wonalancet-chapel/blob/master/images/ChapelCoverImage-icon-50percent.jpg" />
 </div>
 <div style='display:table'>     
