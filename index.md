@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="https://github.com/puck78/wonalancet-chapel/blob/master/assets/wuc.css" />
-<img style="float:left" src="https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20-%2050%20percent.jpg" />
-<span>
+<div style='display:inline><img src="https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20-%2050%20percent.jpg" /></div>
+<div style='display:inline'>
 <h1 id='right'>Wonalancet Chapel</h1> 
 <h2>Postcards</h2>
 <ul>
@@ -16,7 +16,7 @@
   <a href="https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">Lester Ralph</a>
  </li>
 </ul>
-</span>
+</div>
  
 
 
