@@ -1,9 +1,9 @@
 <body>
-<div style='display:inline-block'>
+<div style='display:table'>
 <img src="https://github.com/puck78/wonalancet-chapel/blob/master/images/ChapelCoverImage-icon-50percent.jpg" />
 </div>
-<div style='display:inline-block'>     
-<h1 id='right'>Wonalancet Chapel</h1> 
+<div style='display:table'>     
+<h1>Wonalancet Chapel</h1> 
 <h2>Postcards</h2>
 <ul>
  <li>
