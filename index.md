@@ -12,7 +12,7 @@
 <h3>Speakers and Ministers</h3>
 <ul>
  <li>
-  <a href="wwhttps://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">Lester Ralp</a>
+  <a href="https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">Lester Ralp</a>
  </li>
 </ul>
  
