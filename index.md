@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="https://github.com/puck78/wonalancet-chapel/blob/master/assets/wuc.css" />
-<img id="left" src="https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20-%2050%20percent.jpg" />
-<span style='white-space:nowrap'>
+<img style="float:left" src="https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20-%2050%20percent.jpg" />
+<span>
 <h1 id='right'>Wonalancet Chapel</h1> 
 <h2>Postcards</h2>
 <ul>
