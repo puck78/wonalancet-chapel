@@ -3,6 +3,7 @@
 <h2>Postcards</h2>
   <ul>
     <li><a href="www.example.com">Example</a></li>
+  </ul>
 <h2>Sermon Archives</h2>
 <h3>Speakers and Ministers</h3>
     <ul>
