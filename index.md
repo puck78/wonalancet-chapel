@@ -1,15 +1,13 @@
-<img align=left src="https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20-%2050%20percent.jpg" />
-<h1>Wonalancet Chapel</h1> 
-<h2>Postcards</h2>
-  <ul>
-    <li><a href="www.example.com">Example</a></li>
-  </ul>
-<h2>Sermon Archives</h2>
-<h3>Speakers and Ministers</h3>
-    <ul>
-      <li><a href="https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">Lester Ralph</a></li>
-      <li><a href="www.example.com>Example</a></li>
-    </ul>
+(setq markdown-css-paths '("http://mydomain.com/style.css"))
+![Image](https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20-%2050%20percent.jpg" />
+###Wonalancet Chapel 
+##Postcards
+- [Link](www.example.com>Example)
+ 
+##Sermon Archives
+#Speakers and Ministers</h3>
+-[Link<a href="https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">Lester Ralph</a></li>
+
 
 
 
