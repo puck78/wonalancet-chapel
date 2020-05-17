@@ -1,4 +1,4 @@
-![Image](https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image.jpg)
+![Image](https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20small.jpg)
 ## Wonalancet Chapel 
 
 - Postcards
