@@ -1,8 +1,8 @@
 <body>
-<div style='display:table; width:40%'>
+<div style='float:left; width:40%'>
 <img src="https://github.com/puck78/wonalancet-chapel/blob/master/images/ChapelCoverImage-icon-50percent.jpg" />
 </div>
-<div style='display:table'>     
+<div>     
 <h1>Wonalancet Chapel</h1> 
 <h2>Postcards</h2>
 <ul>
