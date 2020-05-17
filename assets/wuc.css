@@ -1,1 +1,6 @@
-test
+img[src*='#left'] { 
+    float: left;
+}
+img[src*='#right'] { 
+    float: right;
+}
