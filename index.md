@@ -1,4 +1,3 @@
-<link href="/assets/wuc.css" rel="stylesheet"></link>
 ![Image](images/Chapel Cover Image - icon - 50 percent.jpg)
 #Wonalancet Chapel 
 ##Postcards
