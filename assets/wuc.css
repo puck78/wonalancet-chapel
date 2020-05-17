@@ -1,6 +1,6 @@
-img[src*='#left'] { 
+#left{ 
     float: left;
 }
-img[src*='#right'] { 
+#right { 
     float: right;
 }
