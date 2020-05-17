@@ -1,4 +1,4 @@
-![Image](images/Chapel Cover Image - icon - 50 percent.jpg)
+![Image](/images/Chapel Cover Image - icon - 50 percent.jpg)
 #Wonalancet Chapel 
 ##Postcards
 - [Example](www.example.com)
