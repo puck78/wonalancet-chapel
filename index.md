@@ -1,4 +1,4 @@
-![Image](https://github.com/puck78/wonalancet-chapel/blob/master/images/Chapel%20Cover%20Image%20-%20icon%20-%2050%20percent.jpg)
+![Image](images/Chapel Cover Image - icon - 50 percent.jpg#left)
 #Wonalancet Chapel 
 ##Postcards
 - [Example](www.example.com)
