@@ -7,7 +7,7 @@
 <h2>Sermon Archives</h2>
 <h3>Speakers and Ministers</h3>
     <ul>
-      <li><a href="www.nyimtes.com>New York Times</a></li>
+      <li><a href="https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">Lester Ralph</a></li>
       <li><a href="www.example.com>Example</a></li>
     </ul>
 
