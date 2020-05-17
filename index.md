@@ -6,7 +6,7 @@
  
 ##Sermon Archives
 #Speakers and Ministers</h3>
--[Link]https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">
+-[Lester Ralph](https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph)
 
 
 
