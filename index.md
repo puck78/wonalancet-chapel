@@ -2,7 +2,7 @@
 <figure style='float:left; width:40%'>
 <img src="https://github.com/puck78/wonalancet-chapel/blob/master/images/ChapelCoverImage-icon-50percent.jpg" />
 </figure>
-<span>     
+<span style='float:right'>     
 <h1>Wonalancet Chapel</h1> 
 <h2>Postcards</h2>
 <ul>
@@ -18,7 +18,7 @@
   <a href="https://github.com/puck78/wonalancet-chapel/tree/master/sermons/Lester%20Ralph">Lester Ralph</a>
  </li>
 </ul>
-</div>
+
  
 </span>
 
