@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-$('body').prepend('<h2><a href=\"https://puck78.github.io/wonalancet-chapel/index.html\">Home</a></h2>
-<a href=\"https://puck78.github.io/wonalancet-chapel/index.html\"><img src=\"https://puck78.github.io/wonalancet-chapel/images/ChapelCoverImage-icon-50percent.jpg\" /></a><span id=\'right\' style=\'float:right; margin-right:20%; margin-top:5%;\'>    <h1>Wonalancet Chapel</h1>')
+$('body').prepend('<h2><a href="https://puck78.github.io/wonalancet-chapel/index.html">Home</a></h2>
+<a href="https://puck78.github.io/wonalancet-chapel/index.html"><img src="https://puck78.github.io/wonalancet-chapel/images/ChapelCoverImage-icon-50percent.jpg" /></a><span id=\'right\' style=\'float:right; margin-right:20%; margin-top:5%;\'>    <h1>Wonalancet Chapel</h1>')
 }
 
