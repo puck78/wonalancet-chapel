@@ -276,11 +276,14 @@ pre {
     background-color: transparent;
     border: none; }
 
+ul {
+  columns: 5;
+  -webkit-columns: 5;
+  -moz-columns: 5;
+}
 
 
-
-
-
+/*
 ul {
     width: 450px;           /* change it to whatever you like */
     position: relative;
@@ -316,7 +319,7 @@ li {
     text-align: right;
     width: 48%;
     float: left;
-    border: 1px solid black;
+
     margin-bottom: -1px;
 }
 
@@ -328,3 +331,5 @@ li {
     width: 47%;
     padding-right: 1%;
 }
+
+*/
