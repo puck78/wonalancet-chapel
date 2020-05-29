@@ -107,19 +107,7 @@ a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-
 
 h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
   margin-top: 0; }
-/*
-li p.first {
-  display: inline-block; }
 
-ul, ol {
-  padding-left: 30px; }
-
-ul :first-child, ol :first-child {
-  margin-top: 0; }
-
-ul :last-child, ol :last-child {
-  margin-bottom: 0; }
-*/
 dl {
   padding: 0; }
   dl dt {
@@ -280,56 +268,8 @@ ul {
   columns: 5;
   -webkit-columns: 5;
   -moz-columns: 5;
+  list-style:none;
 }
 
 
-/*
-ul {
-    width: 450px;           /* change it to whatever you like */
-    position: relative;
 
-    /* these should be probably already set up by `reset.css` */ 
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-ul:before, ul:after {
-    text-align: center;
-    display: block;
-    border: 1px solid black;
-    border-bottom: 0;
-    width: 48%;
-}
-
-ul:before {
-    content: 'col1';
-    border-right: 0;    
-}
-
-ul:after {
-    content: 'col2';
-    position: absolute;
-    top: 0;
-    left: 48%;
-    margin-left: 1px;    
-}
-
-li {
-    text-align: right;
-    width: 48%;
-    float: left;
-
-    margin-bottom: -1px;
-}
-
-li:nth-child(even) {
-    margin-left: -1px;
-}
-
-li {
-    width: 47%;
-    padding-right: 1%;
-}
-
-*/
