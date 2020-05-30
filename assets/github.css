@@ -265,13 +265,15 @@ pre {
     border: none; }
 
 .postcards {
-  columns: 5;
-  -webkit-columns: 5;
-  -moz-columns: 5;
-  list-style:none;
+  columns: 5 !important;
+  -webkit-columns: 5 !important;
+  -moz-columns: 5 !important;
+  list-style:none !important;
 }
 
 ul {list-style: none;}
+
+
 
 .dark_blue {color: 'darkblue';}
 
