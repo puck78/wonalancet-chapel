@@ -274,3 +274,9 @@ pre {
 ul {list-style: none;}
 
 .dark_blue {color: 'darkblue';}
+
+.right {float:right; margin-right:30%; margin-top:5%;}
+
+.right-sermons {float:right; margin-right:35%; margin-top:5%;}
+
+.home{margin-left:5%;}
