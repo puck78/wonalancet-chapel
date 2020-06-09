@@ -273,6 +273,11 @@ pre {
 
 ul {list-style: none;}
 
+#text{
+  text-align: justify;
+  width: 30%;
+
+}
 
 
 .dark_blue {color: darkblue;}
