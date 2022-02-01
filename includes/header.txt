@@ -1,1 +1,2 @@
 document.write('<link rel="stylesheet" type="text/css" href="https://puck78.github.io/wonalancet-chapel/assets/github.css">') 
+document.write('<link rel="stylesheet" type="text/css" href="https://puck78.github.io/wonalancet-chapel/assets/wuc.css">') 
