@@ -1,0 +1,32 @@
+<script language="javascript" type="text/javascript" 
+  src="https://puck78.github.io/wonalancet-chapel/includes/header.txt"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170181948-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-170181948-1');
+</script>'
+<p class='home'><a href="https://puck78.github.io/wonalancet-chapel/index.html">Home</a></p>
+<a href="https://puck78.github.io/wonalancet-chapel/index.html">
+  <img src="https://puck78.github.io/wonalancet-chapel/images/ChapelCoverImage-icon-50percent.jpg" />
+</a>
+<span id='right-speaker' style='float:right; margin-right:25%; margin-top:5%;'>
+<h2>Sermons by Lester Ralph</h2>
+<ul>
+ <li>
+  <a href="https://puck78.github.io/wonalancet-chapel/sermons/Lester%20Ralph/1993-07-04/Lester_Ralph_1993_07_04.pdf">1993-07-04</a>
+ </li>
+ <li>
+   <a href="https://puck78.github.io/wonalancet-chapel/sermons/Lester%20Ralph/2003-08-10/Lester_Ralph_2003_08_10.pdf">2003-08-10</a>
+ </li>
+</ul>
+
+ 
+</span>
+
+
+
+
+
